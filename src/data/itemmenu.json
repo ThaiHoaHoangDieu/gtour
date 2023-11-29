@@ -1,0 +1,146 @@
+{   "menu_user": [
+    {"id": 1, "label": "Home 1 – Background Image"},
+    { "id": 2, "label": "Home 2 – Youtube Video" },
+    { "id": 3, "label": "Home 3 – Google Inspired" },
+    { "id": 4, "label": "Home 4 – Travel Site" }
+  ],
+  "menu_tour":[
+    {"id": 1, "label": "Tour Classic Fullwidth"},
+    { "id": 2, "label": "Tour Classic Sidebar" },
+    { "id": 3, "label": "Tour Grid Fullwidth" },
+    { "id": 4, "label": "Tour Grid Sidebar" },
+    { "id": 5, "label": "Tour List Sidebar" },
+    { "id": 6, "label": "Tour Header Type" },
+    { "id": 7, "label": "Tour Categories" }   
+  ],
+  "menu_booking":[
+    {"id": 1, "label": "Online Payment for Booking"},
+    { "id": 2, "label": "Custom Booking Form" },
+    { "id": 3, "label": "Tour Durations" },
+    { "id": 4, "label": "Custom Booking URL for Affiliate Tour" },
+    { "id": 5, "label": "Custom Booking using custom HTML & Shortcode" },
+    { "id": 6, "label": "Header Options" },
+    { "id": 7, "label": "Layout Options" }   
+  ],
+  "menu_Destinations":[
+    {"id": 1, "label": "Destination Fullwidth"},
+    { "id": 2, "label": "Destination + Video Header" },
+    { "id": 3, "label": "Destination Right Sidebar" },
+    { "id": 4, "label": "Destination Left Sidebar" },
+    { "id": 5, "label": "Single Destination" },
+    { "id": 6, "label": "Single Destination + Video" } 
+  ],
+  "menu_Pages":[
+    {"id": 1, "label": "About Us"},
+    { "id": 2, "label": "Contact Us" },
+    { "id": 3, "label": "FAQs" },
+    { "id": 4, "label": "Gallery" },
+    { "id": 5, "label": "Page Fullwidth" },
+    { "id": 6, "label": "Page + Video Background Header" },
+    { "id": 7, "label": "Page Right Sidebar" },
+    { "id": 8, "label": "Page Left Sidebar" }   
+  ],
+  "menu_Blogs":[
+    {"id": 1, "label": "Blog Right Sidebar"},
+    { "id": 2, "label": "Blog Left Sidebar" },
+    { "id": 3, "label": "Blog Fullwidth" },
+    { "id": 4, "label": "Blog Grid Right Sidebar" },
+    { "id": 5, "label": "Blog Grid Left Sidebar" },
+    { "id": 6, "label": "Blog Grid Fullwidth" },
+    { "id": 7, "label": "Blog Full + Grid Right Sidebar" },
+    { "id": 8, "label": "Blog Full + Grid Left Sidebar" },
+    { "id": 9, "label": "Blog Full + Grid Fullwidth" }   
+  ],
+  "menu_Shortcodes":[
+    {"id": 1, "label": "Accordion & Toggles"},
+    { "id": 2, "label": "Alert Boxes" },
+    { "id": 3, "label": "Animated Content" },
+    { "id": 4, "label": "Buttons & Social Icons" },
+    { "id": 5, "label": "Columns" },
+    { "id": 6, "label": "Google Maps" },
+    { "id": 7, "label": "Image Frame & Animation" },
+    { "id": 8, "label": "Image Teasers" },
+    { "id": 9, "label": "Pricing Tables" },
+    { "id": 10, "label": "Tabs" }   
+  ],
+  "menu_Shop":[
+    {"id": 1, "label": "Shop Fullwidth"},
+    { "id": 2, "label": "Shop Sidebar" },
+    { "id": 3, "label": "Single Product Fullwidth" },
+    { "id": 4, "label": "Single Product With Sidebar" }
+  ],
+  "month":[
+    {"value": "Any Month", "label": "Any Month"},
+    {"value": "January", "label": "January"},
+    {"value": "February", "label": "February"},
+    {"value": "March", "label": "March"},
+    {"value": "April", "label": "April"},
+    {"value": "May", "label": "May"},
+    {"value": "June", "label": "June"},
+    {"value": "July", "label": "July"},
+    {"value": "August", "label": "August"},
+    {"value": "September", "label": "September"},
+    {"value": "October", "label": "October"},
+    {"value": "November", "label": "November"},
+    {"value": "December", "label": "December"}
+  ],
+  "sort_by":[
+    {"value": "date", "label": "Sort By Date"},
+    {"value": "price_low", "label": "Price Low to High"},
+    {"value": "price_high", "label": "Price High to Low"},
+    {"value": "name", "label": "Sort By Name"},
+    {"value": "popular", "label": "Sort By Popularity"},
+    {"value": "review", "label": "Sort By Review Score"}
+  ],
+  "tourcat":[
+    {"value": "all", "label": "All Categories"},
+    {"value": "mountain", "label": "Mountain"},
+    {"value": "rural", "label": "Rural"},
+    {"value": "snow-ice", "label": "Snow & Ice"},
+    {"value": "wildlife", "label": "Wildlife"}
+  ],
+  "destination_id":[
+    {"value": "any", "label": "Any Destinations"},
+    {"value": "277", "label": "Tokyo"},
+    {"value": "278", "label": "Seoul"},
+    {"value": "279", "label": "Paris"},
+    {"value": "284", "label": "London"},
+    {"value": "285", "label": "Venice"},
+    {"value": "287", "label": "Miami"},
+    {"value": "289", "label": "Rome"},
+    {"value": "270", "label": "Prague"},
+    {"value": "291", "label": "California"},
+    {"value": "292", "label": "Kyoto"},
+    {"value": "293", "label": "Hong Kong"},
+    {"value": "294", "label": "Santorini"}
+  ],
+  "Popular_img":[
+    {"id": 1, "src": "images/Tokyo.jpg", "alt": "Image 1", "text": "Tokyo" },
+    {"id": 2, "src": "images/Seoul.jpg", "alt": "Image 1", "text": "Seoul" },
+    {"id": 3, "src": "images/Paris.jpg", "alt": "Image 1", "text": "Paris" },
+    {"id": 4, "src": "images/London.jpg", "alt": "Image 1", "text": "London" }
+  ],
+  "tour":[
+    {"id": 1, "src": "images/tour1.jpeg", "alt": "Image 1", "title": "French Autumn","price":"5,000","content": "City Tours, Urban","start":"4","date":"5"},
+    {"id": 2, "src": "images/tour2.jpeg", "alt": "Image 1", "title": "Grand Switzerland","price":"6,000","content": "Shopping, Mountain, Snow & Ice","start":"4","date":"6"},
+    {"id": 3, "src": "images/tour3.jpeg", "alt": "Image 1", "title": "Discover Japan","price":"2,500","content": "City Tours, Iconic","start":"4","date":"5"}
+  ],
+  "us":[
+    {"id": 1, "src": "images/map.png", "alt": "Image 1", "title": "Handpicked Hotels","content": "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa"},
+    {"id": 2, "src": "images/earth.png", "alt": "Image 1", "title": "World Class Service","content": "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa"},
+    {"id": 3, "src": "images/du.png", "alt": "Image 1", "title": "Best Price Guarantee","content": "Lorem ipsum dolor sit amet, consect adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa"}
+  ],
+  "blogs":[
+    {"id": 1, "src": "images/Blog1.jpg", "alt": "Image 1", "title": "Memorial Day to Someone Told Me to Travel","content": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache...","date":"DECEMBER 10, 2016"},
+    {"id": 2, "src": "images/Blog2.jpeg", "alt": "Image 2", "title": "7 Tips For Nomads On A Budget Trips","content": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache...","date":"DECEMBER 10, 2016"},
+    {"id": 3, "src": "images/Blog3.jpg", "alt": "Image 3", "title": "Taking A Travel Blog Victory Lap","content": "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache...","date":"DECEMBER 10, 2016"}
+  ],
+  "fotter":[
+    {"id": 1, "src": "images/1.jpg", "alt": "Image 1"},
+    {"id": 2, "src": "images/2.jpg", "alt": "Image 2"},
+    {"id": 3, "src": "images/3.jpg", "alt": "Image 3"},
+    {"id": 4, "src": "images/4.jpg", "alt": "Image 4"},
+    {"id": 5, "src": "images/5.jpg", "alt": "Image 5"},
+    {"id": 6, "src": "images/6.jpg", "alt": "Image 6"}
+  ]
+}

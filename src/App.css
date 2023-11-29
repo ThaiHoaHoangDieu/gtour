@@ -1,38 +1,125 @@
-.App {
+.menu-text {
+  font-size: 13px;
+}
+.background-video {
+  position: relative;
+  width: 100%;
+  height: 800px;
+}
+
+video {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; /* Place the video behind other content */
+}
+
+.menu-item {
+  font-size: 13px;
+}
+.menu-item:hover {
+  color: red;
+}
+.header_cart_wrapper {
+  display: inline-block;
+  position: relative;
+}
+.cart-count {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  font-size: 10px;
+  border-radius: 50px;
+  background: #ff4a52;
+  color: #fff;
+  z-index: 2;
+  width: 16px;
+  height: 16px;
+  line-height: 18px;
+  font-weight: 600;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.shopping-cart {
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  background: transparent;
+  line-height: 31px;
+  display: inline-block;
+  font-size: 16px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.standard_wrapper {
+  position: relative;
+  z-index: 2;
+  text-align: center;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  top: 15%;
 }
 
-.App-link {
-  color: #61dafb;
+.ppb_title {
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: 0px;
+  margin-bottom: 10px;
+  color: #fff;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.page_tagline {
+  font-size: 19px;
+  color: #fff;
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.inputText {
+  background-color: white;
+  outline: none;
+  height: 50px;
+}
+.inner-popular {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+
+.ppb_title {
+  font-size: 36px;
+  text-transform: none;
+  letter-spacing: 0px;
+  color: black;
+}
+
+.page_tagline {
+  font-size: 15px;
+  font-weight: 500;
+  color: #8d9199;
+  text-transform: none;
+  letter-spacing: 0px;
+}
+
+.hover-image:hover {
+  transform: translateY(-10%);
+}
+.rating {
+  justify-content: space-between;
+}
+.postprice {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  background: #ff4a52;
+  padding: 3px 10px 2px 10px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+.footer {
+  background-color: black;
 }
